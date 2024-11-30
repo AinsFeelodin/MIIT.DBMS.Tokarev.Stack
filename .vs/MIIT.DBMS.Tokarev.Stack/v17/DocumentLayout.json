@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AE6BF2-FD57-4F52-AD04-AA3670A6228C}|Test\\Test.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Test\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0AE6BF2-FD57-4F52-AD04-AA3670A6228C}|Test\\Test.vcxproj|solutionrelative:Test\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF7DF13-1F60-4FD7-A90B-2EE89FD0063F}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack\\Stack.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Stack.cpp",
+              "RelativeToolTip": "Stack\\Stack.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T19:57:08.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Node.cpp",
+              "RelativeDocumentMoniker": "Stack\\Node.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Node.cpp",
+              "RelativeToolTip": "Stack\\Node.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T18:10:41.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Node.h",
+              "RelativeDocumentMoniker": "Stack\\Node.h",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Node.h",
+              "RelativeToolTip": "Stack\\Node.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T18:06:01.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.h",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Stack.h",
+              "RelativeDocumentMoniker": "Stack\\Stack.h",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Stack\\Stack.h",
+              "RelativeToolTip": "Stack\\Stack.h",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T18:20:44.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Test\\Test.cpp",
+              "RelativeDocumentMoniker": "Test\\Test.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\MIIT.DBMS.Tokarev.Stack\\Test\\Test.cpp",
+              "RelativeToolTip": "Test\\Test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T18:02:27.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
